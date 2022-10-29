@@ -1,0 +1,75 @@
+body{background-color:white;
+    color: green 
+}
+.header{background-color:white;
+   color: aqua;}
+
+.encabezado{background-color: white;
+color: black;
+padding-top: 5%;
+text-align: center;}
+
+.buzo{background-color:white;
+    color: black;
+padding-top: 2%;
+padding-left: 10%;
+padding-bottom: 1%;
+padding-right: 5%;}
+
+.campera{background-color:white;
+    color:black;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-bottom: 1%;
+    padding-right: 5%;}
+
+.enterito{background-color: white;
+    color:black;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-bottom: 1%;
+    padding-right: 5%;}
+
+.chaleco{background-color: white;
+        color:black;
+        padding-top: 2%;
+        padding-left: 10%;
+        padding-bottom: 1%;
+        padding-right: 5%;}
+
+.vestido{background-color: white;
+            color:black;
+            padding-top: 2%;
+            padding-left: 10%;
+            padding-bottom: 1%;
+            padding-right: 5%;}
+
+.remera{background-color: white;
+                color:black;
+                padding-top: 2%;
+                padding-left: 10%;
+                padding-bottom: 1%;
+                padding-right: 5%;}
+
+.disfraces{background-color: white;
+                    color:black;
+                    padding-top: 2%;
+                    padding-left: 10%;
+                    padding-bottom: 1%;
+                    padding-right: 5%;}
+img {display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 80%;}
+
+.fotofinal{text-align: center;}
+.separador{text-align: center;}
+.footer{text-align:left;
+        color:blueviolet}
+
+a:hover {
+    background-color: rgb(4, 230, 250);
+    border-radius: 40%;
+  }
+.nav-link:hover{background-color: rgba(209, 245, 4, 0.66);
+border-radius:40% ;}
